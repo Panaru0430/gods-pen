@@ -1,8 +1,14 @@
 
-![](https://godspen.ymm56.com/doc/logo.png) 
+ 
+<p align="center"><a href="https://godspen.ymm56.com/" target="_blank" rel="noopener noreferrer"><img width="200" src="https://godspen.ymm56.com/doc/logo.png"></a></p>
 
+<p align="center">
+  <a href="https://godspen.ymm56.com/"><img src="https://img.shields.io/github/license/ymm-tech/gods-pen" alt="License"></a>
+  <a href="https://godspen.ymm56.com/"><img src="https://img.shields.io/github/package-json/v/ymm-tech/gods-pen"></a>
 
-## 官网
+</p>
+
+##  :house: 官网
   
   官网： https://godspen.ymm56.com/
 
@@ -15,9 +21,13 @@
 
 ![](https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/access/ymm_1539588655850.png)
 
+
+ <p style="font-size:18px;" align="center">:point_right: `喜欢别忘了加star支持我们` :point_left:</p>
+
+
 ## 码良是什么
 
-码良是一个在线生成h5页面并提供页面管理和页面编辑的平台，用于快速制作H5页面。用户无需掌握复杂的编程技术，通过简单拖拽、少量配置即可制作精美的页面，可用于营销场景下的页面制作。同时，也为开发者提供了完备的编程接入能力，通过脚本和组件的形式获得强大的组件行为和交互控制能力。
+码良是一个在`线生成h5页面并提供页面管理和页面编辑的平台`，用于快速制作H5页面。用户无需掌握复杂的编程技术，通过简单拖拽、少量配置即可制作精美的页面，可用于营销场景下的页面制作。同时，也为开发者提供了`完备的编程接入能力`，通过脚本和组件的形式获得强大的组件行为和交互控制能力。
 
 ## 码良为谁而作
 
@@ -25,7 +35,12 @@
 
 ## 码良现状
 
-码良发布于2018年3月初，截止2019年4月目前已经支撑运满满 1600多个活动页面。其间也得到了很多反馈、建议，以及bug报告，基于此，我们持续迭代，致力于提升操作效率，打磨用户体验。道阻且长，仍需努力。
+码良发布于2018年3月初，截止2019年10月目前已经支撑运满满 2500多个活动页面。其间也得到了很多反馈、建议，以及bug报告，基于此，我们持续迭代，致力于提升操作效率，打磨用户体验。道阻且长，仍需努力。 目前开源了编辑器相关的代码。预计在12月份开源后台相关代码。
+
+
+## 组件功能扩展
+每个特定功能的组件可以通过组合各种功能脚本来达到对组件功能的扩展。完成特定的功能，并友好的提供参数给到组件的使用者。
+![](https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1570591673129.png)
 
 ## 组件动画展示
 运营活动对一些简单的动画提供支持，方便做一些入场和出场的动画，提升活动的交互感，我们使用了 animate.css 提供的一套css动画。下面提供简单的展示
@@ -43,7 +58,7 @@
 
 
 ## 安装依赖
-
+这里切记。使用yarn install 安装依赖。不要使用npm直接安装依赖。确保版本统一。
 ```bash
 yarn
 ```
@@ -78,13 +93,17 @@ npm run client:build
 
 ## 交流群
 
-### 钉钉
-<img src="https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564716741064.jpeg" width="350px">
-
-### 微信
-<img src="https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564660273471.jpeg" width="350px">
+|钉钉 | 微信  |
+| ------------- | ----------- |
+|<img src="https://ymm-maliang.oss-cn-hangzhou.aliyuncs.com/ymm-maliang/resource/ymm_1564716741064.jpeg" width="350px">|<img src="https://godspen.oss-cn-shanghai.aliyuncs.com/godspen/qrcode/qrcode.jpeg?t=2" width="349px"><br>如果上面微信二维码过期。[点击我查看最新二维码](https://godspen.oss-cn-shanghai.aliyuncs.com/godspen/qrcode/qrcode.jpeg)|
 
 
+## 支持我们
+ <p style="font-size:18px;" align="center">:point_right: `来都来了，加个关注再走吧` :point_left:</p>
 
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
 
 
